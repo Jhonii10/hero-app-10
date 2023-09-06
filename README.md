@@ -1,8 +1,18 @@
-# React + Vite
+# Hero App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una emocionante aplicación de heroes desarrollada utilizando React y Bootstrap. Permite a los usuarios explorar información detallada sobre los personajes del Mundo Marvel y Dc, incluyendo su nombre, biografía y habilidades. La aplicación también ofrece la funcionalidad de búsqueda de personajes para un acceso rápido.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React: Una libreria de JavaScript para la construcción de interfaces de usuario interactivas.
+Bootstrap: Un framework de CSS que facilita el diseño responsive y compatible con dispositivos móviles.
+
+## Cómo ver la aplicación
+
+Puedes acceder a la aplicación de Dragon Ball Z en el siguiente enlace: <https://hero-app-10.netlify.app/login>
+
+## Developer
+
+Esta aplicación fue creada por Jhoni ipia
+
+¡Disfruta explorando el emocionante mundo de Marvel y Dc!
