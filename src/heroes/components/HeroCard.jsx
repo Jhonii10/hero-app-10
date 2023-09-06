@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const HeroCard = ({heroe}) => {
 
-    const heroImageUrl = `assets/${heroe.id}.jpg`
+    const heroImageUrl = `/assets/${heroe.id}.jpg`
     return (
         <div className="col " style={{minWidth:'250px'}}>
             <div className="card">
