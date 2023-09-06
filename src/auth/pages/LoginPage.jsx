@@ -21,7 +21,7 @@ const LoginPage = () => {
         <div  style={{height:'100%',}}>
         
        <div className="container mt-5 text-center">
-        <img src="/assets/animate.gif"/>
+        <img src="assets/animate.gif"/>
         <h1 className="mt-4">Login</h1>
         <hr/>
         <button 
